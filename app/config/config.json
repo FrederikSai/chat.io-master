@@ -1,0 +1,9 @@
+{
+	"dbURI": "mongodb://chatapp:chatapp@ds111788.mlab.com:11788/chatapp",
+	"sessionSecret": "123456",
+	"redis": {
+		"host": "127.0.0.1",
+		"port": 6379,
+		"password": ""
+	}
+}
